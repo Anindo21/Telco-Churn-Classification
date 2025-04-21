@@ -45,8 +45,8 @@ Models are evaluated based on accuracy, precision, recall, F1-score, and ROC-AUC
 ## 📈 Results & Visuals
 Example outputs include confusion matrices and ROC curves.
 
-![Confusion Matrix](results/plot_30.png)
-![ROC Curve](results/plot_65.png)
+![Confusion Matrix](results/confusion_matrix.png)
+![ROC Curve](results/Roc_Curve.png)
 
 > Add more visuals in the `results/` folder to improve clarity.
 
