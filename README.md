@@ -48,7 +48,6 @@ Example outputs include confusion matrices and ROC curves.
 ![Confusion Matrix](Results/Confusionmatrix.png)
 ![ROC Curve](Results/Roccurve.png)
 
-> Add more visuals in the `results/` folder to improve clarity.
 
 ---
 
